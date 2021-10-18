@@ -1,4 +1,6 @@
 initial
 second
-
+HEAD
 local remote changes
+login from a new branch
+origin/login
