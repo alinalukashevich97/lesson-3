@@ -2,3 +2,4 @@ initial
 second
 
 remote changes
+login from a new branch
