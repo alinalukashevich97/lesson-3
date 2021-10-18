@@ -1,4 +1,4 @@
 initial
 second
-local
 
+local remote changes
